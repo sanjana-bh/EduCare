@@ -1,12 +1,49 @@
-# React + Vite
+📚 Educare – Modern Learning Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Educare is a modern and responsive Learning Management System (LMS) built using React + Vite.
+The platform focuses on delivering a structured and user-friendly interface for managing and exploring online courses.
 
-Currently, two official plugins are available:
+It demonstrates clean component architecture, organized project structure, and modern frontend development practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Key Features
+🔐 User Authentication Interface (Login / Register UI)
+📘 Course Listing & Display
+📂 Module-Based Course Structure
+🎨 Clean & Responsive User Interface
+⚡ Fast Performance with Vite
+🧩 Reusable React Components
 
-## Expanding the ESLint configuration
+🛠️ Tech Stack
+Frontend: React.js
+Build Tool: Vite
+Styling: CSS
+Version Control: Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Getting Started
+1️⃣ Clone the Repository
+git clone https://github.com/sanjana-bh/educare.git
+2️⃣ Navigate into the Project Folder
+cd educare
+3️⃣ Install Dependencies
+npm install
+4️⃣ Start Development Server
+npm run dev
+
+The application will run locally on:
+http://localhost:5173/
+
+🎯 Project Objective
+The goal of Educare is to build a scalable and well-structured LMS frontend that demonstrates:
+Component-based development
+Clean UI design principles
+Organized folder architecture
+Modern React development workflow
+
+📌 Future Enhancements
+Backend Integration
+Database Connectivity
+Role-Based Access (Admin / Student)
+Deployment to Production
+
+👩‍💻 Developed By
+Sanjana Bharadwaj
