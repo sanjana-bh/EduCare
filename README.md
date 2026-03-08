@@ -42,8 +42,8 @@ EduCare
 │
 ├── backend         # Node.js + Express backend API
 │
-└── README.m
-d
+└── README.md
+
 🌐 Live Demo
 🔗 https://educare-1-6uqd.onrender.com/
 
